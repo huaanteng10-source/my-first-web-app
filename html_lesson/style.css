@@ -1,0 +1,32 @@
+h1 {
+    font-size:120px;
+    height:160px;
+    width:500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.selected{
+    color:red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.selected2{
+    color:brown;
+}
+.selected3{
+    color:aquamarine;
+}
+img{
+    height:60px;
+   
+}
+.header{
+    background-color: lightblue;
+}
+.main{
+    background-color:lightcoral;
+}
